@@ -1,7 +1,9 @@
 # CUNY J+ Online Security Workshop
 
-You can find this file -- containing all the links -- at https://github.com/mtigas/workshop-cunyjplus
+You can find this file — with links to all the resources — at:  
+https://github.com/mtigas/workshop-cunyjplus
 
+**Slides:** https://github.com/mtigas/workshop-cunyjplus/raw/master/slides.pdf  
 
 # Current Events & Background
 
@@ -60,7 +62,7 @@ What providers to trust.
 
 ---
 
-*[More notes here](mobile.md) other mobile apps (like iMessage, Facebook Messenger, WhatsApp, Snapchat, etc.)*
+*[More notes here](mobile.md) about other mobile apps (like iMessage, Facebook Messenger, WhatsApp, Snapchat, etc.)*
 
 **Other mobile advice**
 
@@ -104,6 +106,7 @@ Tor Browser Bundle has HTTPS Everywhere and an ad-blocker built-in.
   * End-to-end encryption.
   * No Accounts: No account registration. Randomly-generated user IDs.
   * Metadata: No central servers. Your computer makes an encrypted connection directly to your friend's computer. (Your ISP will know that you're using Tor.)
+  * Try adding me: `ricochet:4cyjyokl4emrqcvn`
 
 **Tor Messenger**: Encrypted chat
   * [Download](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger)

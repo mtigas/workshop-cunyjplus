@@ -6,7 +6,7 @@ https://bitly.com/jplus-security
 **Slides:** https://github.com/mtigas/workshop-cunyjplus/raw/master/slides.pdf  
 **Tipsheet:** https://github.com/mtigas/workshop-cunyjplus/raw/master/printout.pdf  
 
-All materials in this repo are Copyright © 2016 Mike Tigas. All rights reserved. Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0][LICENSE.md].
+All materials in this repo are Copyright © 2016 Mike Tigas. All rights reserved. Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](LICENSE.md).
 
 # Current Events & Background
 
